@@ -28,6 +28,7 @@ library:
   - src/dna
   - src/revc
   - src/rna
+  - src/gc
 
 executables:
   rosalind-haskell-exe:
