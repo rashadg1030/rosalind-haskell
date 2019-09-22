@@ -23,12 +23,8 @@ dependencies:
 - base >= 4.7 && < 5
 
 library:
-  source-dirs: 
+  source-dirs:
   - src
-  - src/dna
-  - src/revc
-  - src/rna
-  - src/gc
 
 executables:
   rosalind-haskell-exe:
